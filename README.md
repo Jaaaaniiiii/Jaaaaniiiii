@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaaaaniiiii
 - 👀 I’m interested in the programming world!
-- 🌱 I’m currently learning Data Analyst, Cybersecurity, and UI/UX Design!!!
+- 🌱 I’m currently learning Web Development, Cybersecurity, and UI/UX Design!!!
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @Jaaaaniiiii in Instagram (DM)
 

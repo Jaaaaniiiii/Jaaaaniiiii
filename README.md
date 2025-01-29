@@ -11,8 +11,8 @@
 - Optimizing network resilience & connectivity  
 
 ### 📫 Let's connect!  
-- GitHub: @Jaaaaniiiii
-- LinkedIn: (https://www.linkedin.com/in/janiarrahmaputri) 
+- GitHub: https://github.com/Jaaaaniiiii
+- LinkedIn: https://www.linkedin.com/in/janiarrahmaputri
 - Email: janiarrahmaputri@gmail.com  
 
 🚀 Always open to collaborations and discussions about tech & research!

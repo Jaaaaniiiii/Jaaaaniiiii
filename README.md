@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Janiar Rahma Putri  
 
-🎓 Researcher at **Adaptive Network Laboratory**  
+🎓 Research Assistant at **Adaptive Network Laboratory**  
 ☁️ Currently researching **Cloud Computing**  
 🤖 Passionate about **Machine Learning** and **Google Cloud Platform (GCP)**  
 💻 Proficient in **Python**, **C++**,  **C**, **MATLAB (Beginner)**

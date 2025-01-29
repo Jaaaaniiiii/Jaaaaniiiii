@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Jaaaaniiiii
-- 👀 I’m interested in the programming world!
-- 🌱 I’m currently learning Google Cloud Platform and Machine Learning!!!
-- 💞️ I’m part of the Adaptive Network Laboratory
-- 📫 How to reach me @Jaaaaniiiii in Instagram (DM)
+# Hi there! 👋 I'm Janiar Rahma Putri  
 
-<!---
-Jaaaaniiiii/Jaaaaniiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Researcher at **Adaptive Network Laboratory**  
+☁️ Currently researching **Cloud Computing**  
+🤖 Passionate about **Machine Learning** and **Google Cloud Platform (GCP)**  
+💻 Proficient in **Python**, **C++**,  **C**, **MATLAB (Beginner)**
+
+### 🔭 What I'm working on:  
+- Cloud computing research & service mesh analysis  
+- Exploring ML applications 
+- Optimizing network resilience & connectivity  
+
+### 📫 Let's connect!  
+- GitHub: @Jaaaaniiiii
+- LinkedIn: (https://www.linkedin.com/in/janiarrahmaputri) 
+- Email: janiarrahmaputri@gmail.com  
+
+🚀 Always open to collaborations and discussions about tech & research!
